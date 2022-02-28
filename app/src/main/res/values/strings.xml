@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempApp</string>
+    <string name="temp_hint">Enter temperature</string>
+    <string name="cel">Celcius</string>
+    <string name="faran">Fahrenhite</string>
+    <string name="calc">Calculate</string>
+</resources>
